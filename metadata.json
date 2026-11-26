@@ -1,0 +1,6 @@
+{
+  "name": "Valmont Business School",
+  "description": "Triple-accredited European Grande École in Lyon and Geneva offering Bachelor, Master in Management, MSc, MBA, and DBA programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
